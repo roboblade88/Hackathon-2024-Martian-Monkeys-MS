@@ -4,6 +4,31 @@ img {
 body {
     text-align:center;
     font-family:'Times New Roman', Times, sans-serif;
-    background-color:black;
-    color:lime;
+    background-color: rgb(94, 2, 99);
+    background-size: cover;
+    color:aliceblue;
+}
+.container1{
+    width:80%;
+    margin: 50px auto;
+    background-color: rgba(102, 13, 234, 0.8);
+    padding: 20px;
+}
+.container2{
+    width:80%;
+    margin: 50px auto;
+    background-color: rgb(80, 7, 188);
+    padding: 20px;
+}
+.container3{
+    width:80%;
+    margin: 50px auto;
+    background-color: rgb(39, 9, 159);
+    padding: 20px;
+}
+.container4{
+    width:80%;
+    margin: 50px auto;
+    background-color: rgb(15, 8, 128);
+    padding: 20px;
 }
